@@ -52,6 +52,14 @@
     {
       "class": "shapeGroup",
       "id": "258979A0-11B9-4E74-BF8C-16D8A7909A69"
+    },
+    {
+      "class": "text",
+      "id": "EADED1F0-9968-4EB9-B3F2-B6AB5F7C5D15"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CD0410BD-9A08-4F5E-9DD9-3254F4E9F6AA"
     }
   ],
   "name": "iPhone 8",
