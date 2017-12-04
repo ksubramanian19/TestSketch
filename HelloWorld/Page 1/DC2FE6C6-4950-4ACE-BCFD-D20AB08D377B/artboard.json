@@ -1,6 +1,13 @@
 {
-  "_class": "page",
-  "do_objectID": "B13009EB-FD54-4D1F-9DD7-385BE4AC7647",
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "DC2FE6C6-4950-4ACE-BCFD-D20AB08D377B",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,11 +20,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 300,
-    "width": 300,
-    "x": 0,
-    "y": 0
+    "height": 667,
+    "width": 375,
+    "x": 130,
+    "y": -82
   },
+  "hasBackgroundColor": false,
   "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -25,24 +33,38 @@
     "guides": [
     ]
   },
+  "includeBackgroundColorInExport": true,
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
-      "id": "A0C9AE2C-56BB-4A02-AD82-BA0BDD885D31"
+      "id": "4026A30A-2DC2-4939-9273-26B5E20B0706"
     },
     {
-      "class": "artboard",
-      "id": "DC2FE6C6-4950-4ACE-BCFD-D20AB08D377B"
+      "class": "shapeGroup",
+      "id": "665F0EB5-CA8F-4865-B9D5-F9DCAA210A9A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "258979A0-11B9-4E74-BF8C-16D8A7909A69"
+    },
+    {
+      "class": "text",
+      "id": "EADED1F0-9968-4EB9-B3F2-B6AB5F7C5D15"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CD0410BD-9A08-4F5E-9DD9-3254F4E9F6AA"
     }
   ],
-  "name": "Page 1",
+  "name": "iPhone 8",
   "nameIsFixed": false,
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
